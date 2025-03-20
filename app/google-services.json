@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518299531643",
+    "project_id": "practica09-b9092",
+    "storage_bucket": "practica09-b9092.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518299531643:android:9ae401b955e3d2abf1a5de",
+        "android_client_info": {
+          "package_name": "astorga.jonathan.practica09"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNjzE27_MqIfDWVlY5UM_nDsVx2PlqfW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
